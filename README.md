@@ -27,4 +27,12 @@ npm run dev
 ```
 
 
+## Screenshots
+
+![preview01](proj_previews\prev01.jpg)
+![preview02](proj_previews\prev02.jpg)
+
+
+
+
 
