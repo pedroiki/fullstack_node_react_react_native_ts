@@ -1,0 +1,30 @@
+:root {
+/* na pagina principal a caixinha de cadastro */
+    --primary-color: orange;    
+    /* na pagina principal o titulo                                */
+    --title-color: blue;
+    /* na pagina principal o sub titulo */
+    --text-color: red;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* o corpo da pagina cores e defenicoes */
+body {
+    background: grey;
+    -webkit-font-smoothing: antialiased;
+    color: var(--text-color);
+}
+
+body, input, button {
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--title-color);
+    font-family: Ubuntu;
+}
